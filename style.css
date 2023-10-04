@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+h1{
+    background: #7bee7b;
+    color: #1714e6d3;
+    font-family: 'Times New Roman', Times, serif;
+    font-size:2em;
+    font-style: oblique;
+    font-weight:900;
+    letter-spacing: 4px;
+    line-height: 50px;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    padding-left: 30px;
+    text-align:center ;
+    text-decoration: dashed;
+    text-shadow:10px 5px 5px #dd2626 ;
+    
+}
+
+p{
+    text-indent: 4em;
+    text-shadow: 1px 10px 10px #001605;
+    text-transform: ;
+    word-spacing:;
+    
+}
+
+main p{
+    text-indent: 4em;
+    text-shadow: 10px 5px 5px #68ff68;
+     
+
+}
